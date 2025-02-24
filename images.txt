@@ -1,6 +1,6 @@
 python:3.12.4-slim
 nginx
-gitea
+gitea/gitea
 mysql
 redis
-grafana
+grafana/grafana
