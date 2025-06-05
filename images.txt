@@ -9,3 +9,4 @@ python:3.13.3-slim
 --platform=linux/arm64 python:3.13.3-slim
 --platform=linux/arm64 mysql
 --platform=linux/arm64 nginx
+mongo
