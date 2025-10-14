@@ -1,1 +1,1 @@
-jenkins/jenkins:latest-jdk17
+python:3.12.4-slim
