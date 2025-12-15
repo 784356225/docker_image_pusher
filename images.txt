@@ -1,1 +1,1 @@
-snowdreamtech/frpc
+centrifugo/centrifugo:v6.5.2
